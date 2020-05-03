@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Palliative
+/Palliative/bin
+/Palliative/obj
+/Palliative/Properties/PublishProfiles
+/Palliative/appsettings.Development.json
