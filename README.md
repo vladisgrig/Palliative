@@ -1,2 +1,2 @@
-# Palliative Demo
-https://palliative.azurewebsites.net/
+# Palliative API Demo
+https://palliative.azurewebsites.net/swagger/index.html
